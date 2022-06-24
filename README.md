@@ -1,7 +1,7 @@
 ## Frame Mining: a Free Lunch for Learning Robotic Manipulation from 3D Point Clouds
 
   - [Installation](#installation)
-  - [Example Training with FM-MA](#example-training-with-fm-ma)
+  - [Example Training with FrameMiner-Mixaction (FM-MA)](#example-training-with-frameminer-mixaction-fm-ma)
 
 ### Installation
 
